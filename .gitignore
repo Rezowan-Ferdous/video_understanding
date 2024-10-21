@@ -161,3 +161,4 @@ cython_debug/
 
 *.prm
 model_params/
+assets/
